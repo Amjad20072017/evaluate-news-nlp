@@ -2,7 +2,6 @@
 
 This project will allows users to run Natural Language Processing (NLP) on articles or blogs found on other websites to understand the written human language . we will use an external API called Aylien , that has put a public-facing API in front of their NLP system to interact with their NLP system. This tool will help us classify the information available in the article, like whether the content is subjective (opinion) or objective (fact-based) and whether it is positive, neutral, or negative in tone.
 
-
 # project technologies, languages, tools 
 
 - HTML5
